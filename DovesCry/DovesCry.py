@@ -1,0 +1,2 @@
+from lyric import *
+doves()
